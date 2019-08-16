@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">tempatwisata</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="nama_wisata">Nama Wisata</string>
+    <string name="masukan_lokasi">Masukan detail lokasi</string>
+    <string name="masukan_tempat">masukan tempat</string>
+    <string name="keterangan">keterangan</string>
+    <string name="tempat">Tempat</string>
+    <string name="lokasi">Lokasi</string>
+    <string name="tambah">Tambah</string>
+    <string name="petunjuk_arah">petunjuk arah</string>
+    <string name="delete">Delete</string>
+    <string name="foto">Foto</string>
+    <string name="masukan_img_url">masukan image url</string>
+    <string name="email">email</string>
+    <string name="nama">nama</string>
+
+    <dimen name="activity_vertical_margin">5dp</dimen>
+    <dimen name="activity_horizontal_margin">5dp</dimen>
+</resources>
